@@ -206,4 +206,12 @@
 <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
 <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
 </body>
+<<<<<<< HEAD
+<script>
+	werwerwewerwereeeeeeeeee
+
+</script>
 </html>
+=======
+</html>
+>>>>>>> f8a9c90b0285028d705d18a654a69b81019468e3

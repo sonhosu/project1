@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
+<H2>HTWERWER</H2>
+=======
 <!-- Footer-->
 <footer class="footer bg-light">
     <div class="container">
@@ -39,5 +42,6 @@
         </div>
     </div>
 </footer>
+>>>>>>> f8a9c90b0285028d705d18a654a69b81019468e3
 </body>
 </html>
