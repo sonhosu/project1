@@ -29,7 +29,7 @@ dependencies {
     implementation 'org.apache.tomcat.embed:tomcat-embed-jasper'
 	implementation 'javax.servlet:jstl'
 	
-	// 스프링 시큐리티
+	 스프링 시큐리티
 	implementation 'org.springframework.boot:spring-boot-starter-security'
 }
 
